@@ -1,0 +1,35 @@
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\Youssef Mohsen\Desktop\Parser Template\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\Youssef Mohsen\Desktop\TINY_Project\TINY_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\youss\OneDrive\Desktop\TINY_Project\TINY_Compiler\obj\Debug\JASON_Compiler.pdb
