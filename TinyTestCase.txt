@@ -1,0 +1,63 @@
+/*Sample program includes all 30 rules*/
+/*Test*/
+int sum(int a, int b, int c)
+{
+	return a + b + c;
+}
+/*Test2*/
+float average(float a, float b, float c)
+{
+        c := a / b;
+	return c;
+}
+int main()
+{
+	int val, counter, x := 1, y := 0;
+
+	float x1,x2:=1,xy:=3;
+
+	int x;
+
+	read val;
+
+	int s := sum(x,y,counter);
+
+	float avg := average(x1,x2,xy);
+
+	counter := 0;
+
+	repeat                                                                                
+		val := val - 1;
+		write "Iteration number [";
+		write counter;
+		write "] the value of x = ";
+		write val;
+		write endl;                          
+		counter := counter+1;                                                      
+	until val = 1
+
+	write endl;
+
+	string s := "number of Iterations = ";
+	write s; 
+
+	counter := counter-1;
+
+	write counter;
+
+	/* complicated equation */    
+	float z1 := 3*2*(2+1)/2-5.3;
+	z1 := z1 + sum(a,y);
+
+	if  z1 > 5 || z1 < counter && z1 = 1 /*Test*/ /*Test2*/ /*Test3*/
+	then 
+		write z1;
+	elseif z1 < 5 /*Test*/ /*Test2*/ /*Test3*/
+	then
+		z1 := 5;
+	else /*Test*/ /*Test2*/ /*Test3*/
+	    z1 := counter;
+	end
+
+	return 0;
+}
